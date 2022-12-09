@@ -5,7 +5,7 @@ externalSecrets:
 resources:
    limits:
      cpu: 1000m
-     memory: 512Mi
+     memory: 1024Mi
    requests:
-     cpu: 300m
-     memory: 512Mi
+     cpu: 800m
+     memory: 800Mi
